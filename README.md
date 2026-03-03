@@ -1,16 +1,17 @@
-## Hi there 👋
+### Technical Director @ R/GA | Engineering Leader | Architect
 
-<!--
-**celitwa/celitwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a technical leader with a foundation in high-scale systems and a passion for the intersection of **Design and Engineering**. 
 
-Here are some ideas to get you started:
+* 🔭 **Currently building:** Custom **Figma plugins** to automate and scale design-to-code workflows.
+* 💻 **Core Stack:** React, TypeScript, JavaScript, and Node.js.
+* 🏗️ **Architectural Focus:** Design Systems, OOP, and High-Performance Web Architecture.
+* 📜 **Background:** Former Game Engine developer with a decade+ of experience leading global technical strategy at R/GA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Favorite Tools & Technologies
+- **Frontend:** React, TypeScript, Vue
+- **Tooling:** Figma API, Webpack, Vite
+- **Leadership:** Agile, Design Ops, Engineering Management
+
+[LinkedIn](https://www.linkedin.com/in/celinatwardowski/) 
